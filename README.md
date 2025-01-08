@@ -1,13 +1,13 @@
 # Yolov8 for OCR
 
 
-# Vanilla Yolov8 on Object Detection Image
+Vanilla Yolov8 on Object Detection Image
 ![VIT_coco8_untrained](https://github.com/user-attachments/assets/25594054-489f-4065-a6c0-22c69ec54228)
 
-# Vanilla Yolov8 on OCR Image (poor performance)
+Vanilla Yolov8 on OCR Image (poor performance)
 ![VIT_poetry_untrained](https://github.com/user-attachments/assets/bed6ccf1-390e-4b83-845d-085e67319abc)
 
-# Trained Yolov8 on OCR Image (Superb Performance)
+Trained Yolov8 on OCR Image (Superb Performance)
 ![Screenshot 2025-01-07 135354](https://github.com/user-attachments/assets/fa98ed3f-eb4b-4a85-a412-2023e37362ec)
 
 
